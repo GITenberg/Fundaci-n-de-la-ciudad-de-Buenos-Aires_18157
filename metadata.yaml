@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18157#Fundaci-n-de-la-ciudad-de-Buenos-Aires
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2006-04-12'
 gutenberg_type: Text
